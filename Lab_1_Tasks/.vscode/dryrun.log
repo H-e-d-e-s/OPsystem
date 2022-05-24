@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/amt/Desktop/OP/Lab_1_Tasks'
+gcc -O2 -o task1.exe task1.c
+make: Leaving directory '/home/amt/Desktop/OP/Lab_1_Tasks'
+ 
